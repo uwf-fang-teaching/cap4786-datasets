@@ -1,6 +1,7 @@
-# Dataset for Teaching
+# The Verdict Dataset
 
-This repository contains the verdict dataset, originally sourced from [Kaggle](https://www.kaggle.com/datasets/golammostofas/the-verdict). The dataset was created by MD. GOLAM MOSTOFA and is used under the terms of the Apache 2.0 License.
+## Source
+https://www.kaggle.com/datasets/golammostofas/the-verdict
 
 ## Modifications
 
@@ -8,4 +9,8 @@ None
 
 ## License
 
-This dataset is distributed under the Apache License 2.0. A copy of the license is included in this repository.
+Apache License 2.0
+
+## Usage
+Practice data analysis only. Do not use for other purpose.
+
